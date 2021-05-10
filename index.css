@@ -1,0 +1,28 @@
+.red {
+    width: 200px;
+    height: 200px;
+    background: #900;
+    float: left;
+}
+  
+.green {
+    position: absolute;
+    margin-top: 200px;
+    width: 200px;
+    height: 200px;
+    background: #090;
+    float: left;
+}
+  
+.blue {
+    width: 200px;
+    height: 400px;
+    background: #009;
+    float: left;
+}
+
+.dashboard {
+    margin-top: 420px;
+    position: absolute;
+    float: bottom;
+}
